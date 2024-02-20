@@ -1,0 +1,147 @@
+capex: capital expenditure is money spent to buy infrastructure.
+
+->additional cost to maintain
+
+->manage infrastructure.
+
+opex: operational expenditure is money spent to use a service or a product.
+
+->zero upfront costs.
+
+->pay for services as you use them.
+
+->example: provisioning VMs as you need them.
+0:30
+11. Exploring Microsoft Azure Fundamentals - Compliance, Privacy and Governance
+126. Step 05 - Understanding Compliance in Azure - Compliance Hub
+
+compliance and azure
+
+->depending on the domain of your enterprise in addition to corporate regulatory policies.
+0:17
+11. Exploring Microsoft Azure Fundamentals - Compliance, Privacy and Governance
+125. Step 04 - Exploring Azure Privacy Docs and Information Protection
+
+privacy and compliance
+2:19
+11. Exploring Microsoft Azure Fundamentals - Compliance, Privacy and Governance
+124. Step 03 - Preventing Accidental Deletion with Resource Locks
+
+resource locks
+
+1)readonlylock: authorized users can read but they cant delete or update resource
+
+2)cannotdelete: can modify but they can't delete the resource.
+0:35
+11. Exploring Microsoft Azure Fundamentals - Compliance, Privacy and Governance
+123. Step 02 - Automating Standard Environments with Azure Blueprints
+
+azure blueprint = one or more (policy + role +arm template+ resource group)
+1:28
+10. Exploring Microsoft Azure Fundamentals - Understand Azure Support and Guarantees
+120. Step 04 - Monitoring Azure Service Status with Azure Service Health
+
+hierarchy: azure status > azure service health > azure resource health
+4:53
+10. Exploring Microsoft Azure Fundamentals - Understand Azure Support and Guarantees
+119. Step 03 - Monitoring Azure with Azure Monitor
+
+azure monitor to analyzed the data of logs , generate logs ,monitor.
+0:06
+10. Exploring Microsoft Azure Fundamentals - Understand Azure Support and Guarantees
+118. Step 02 - Automate Azure Recommendations with Azure Advisor
+
+azure advisor
+
+->automated recommendations to improve reliability,security and performance and reduce costs.
+
+->take immediate actions or schedule or dismiss.
+
+->filter recommendations by subscriptions, resource groups or service.
+0:27
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+114. Step 09 - Azure Active Directory & Azure Subscriptions - Remember
+
+azure active directory and azure subscriptions
+
+..transfer.
+
+..associated azure AD tenant is not deleted.
+1:05
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+113. Step 08 - Introduction to Passwordless authentication with Azure AD
+
+passwordless authentication with azure azure directory.
+
+complex security frustrates users:MFA user needs to remember passwords and security device.
+
+
+1:28
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+112. Step 07 - Exploring Azure AD - Role Based Access Control (RBAC)
+
+Role based access control(RBAC)
+
+->configure authorization resources have a an access to.
+
+role assignment has 3 parts:
+
+who?
+
+what permission?
+
+what scope?
+0:16
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+111. Step 06 - Introduction to Azure Active Directory Domain Services
+
+diff bet azure directory: microsoft very popular directory service and azure active directory:managed active directory device in azure.
+0:01
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+111. Step 06 - Introduction to Azure Active Directory Domain Services
+
+ms active directory is microsoft entra id
+0:48
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+108. Step 04 - Exploring Azure AD - Conditional Access
+
+conditional access three important signals:
+
+1)who is the user
+
+2)where is she?
+
+3)what device is she using?
+3:02
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+107. Step 03 - Exploring Azure AD - Identity Management in Azure
+
+azure active directory : control enterprise and users and their applications and azure resources.
+
+build application and enable to use sso.
+
+synchronize on-premises active directory with azure ad.
+
+azure AD MFA: authenticate users in multiple ways :- multi factor authentication.
+
+azure AD self service password reset: global administrators can enable the feature to allow users.
+
+
+2:19
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+107. Step 03 - Exploring Azure AD - Identity Management in Azure
+
+active directory :- very popular microsoft propietary directory service.
+
+-->provides authentication and authorization.
+
+it also provides single sign on service.
+
+-->enables you to login multiple apps and services with same credentials.
+1:21
+9. Exploring Microsoft Azure Fundamentals - Security and Identity Management
+107. Step 03 - Exploring Azure AD - Identity Management in Azure
+
+authentication :- is it right user!
+
+authorization : do they have right access?
